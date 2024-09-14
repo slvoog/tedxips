@@ -241,6 +241,10 @@ main {
   max-width: 90px;
 }
 
+.youth-footer-logo {
+  max-width: 150px
+}
+
 .footer p {
   margin: 0;
 }
