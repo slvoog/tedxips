@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "<img src='./assets/youth25/header.png' style='border-radius: 15px' class='headerimgfullsize'><img src='./assets/youth25/headermobile.png' style='border-radius: 15px' class='headerimgmobile'>"
+  name: "<img src='blog/assets/youth25/header.png' style='border-radius: 15px' class='headerimgfullsize'><img src='blog/assets/youth25/headermobile.png' style='border-radius: 15px' class='headerimgmobile'>"
 ---
 
 <div class="comingsoon">There are no public details for this event at this time. Stay tuned for developments.</div>
@@ -27,7 +27,7 @@ TEDxIPS Youth 2025 is an independently organized TED event, operated under licen
 
 <div class="speakers">
   <div class="speaker">
-    <div class="speaker-photo" style="background-image: url('./assets/youth25/speakers/example.jpg');"></div>
+    <div class="speaker-photo" style="background-image: url('blog/assets/youth25/speakers/example.jpg');"></div>
     <div class="speaker-overlay">
       <div class="speaker-details">
         <h3 class="speaker-name">Speaker 1</h3>
@@ -36,7 +36,7 @@ TEDxIPS Youth 2025 is an independently organized TED event, operated under licen
     </div>
   </div>
   <div class="speaker">
-    <div class="speaker-photo" style="background-image: url('./assets/youth25/speakers/example.jpg');"></div>
+    <div class="speaker-photo" style="background-image: url('blog/assets/youth25/speakers/example.jpg');"></div>
     <div class="speaker-overlay">
       <div class="speaker-details">
         <h3 class="speaker-name">Speaker 2</h3>
@@ -45,7 +45,7 @@ TEDxIPS Youth 2025 is an independently organized TED event, operated under licen
     </div>
   </div>
   <div class="speaker">
-    <div class="speaker-photo" style="background-image: url('./assets/youth25/speakers/example.jpg');"></div>
+    <div class="speaker-photo" style="background-image: url('blog/assets/youth25/speakers/example.jpg');"></div>
     <div class="speaker-overlay">
       <div class="speaker-details">
         <h3 class="speaker-name">Speaker 3</h3>
@@ -67,7 +67,7 @@ Have questions or need more information? Feel free to reach out to us at [contac
 
 <div id="footer" class="footer full-width-content">
   <div class="footer-column">
-    <img src="./assets/logo.svg" alt="TEDxIPS Logo" class="footer-logo">
+    <img src="blog/assets/logo.svg" alt="TEDxIPS Logo" class="footer-logo">
   </div>
   <div class="footer-column footer-copyright">
     <p><b>© </b><span class="nectar-current-year">2024</span> TEDxIPS</p>

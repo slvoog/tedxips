@@ -12,7 +12,7 @@ export default defineConfig({
       { text: 'ABOUT', link: '/about'},
       { text: 'PARTNERS', link: '/sponsors'}
     ],
-    logo: '../assets/logo.svg',
+    logo: 'blog/assets/logo.svg',
     siteTitle: false,
   },
   head: [

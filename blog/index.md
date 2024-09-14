@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "<img src='./assets/header.png' style='border-radius: 15px' class='headerimgfullsize'><img src='./assets/headermobile.png' style='border-radius: 15px' class='headerimgmobile'>"
+  name: "<img src='blog/assets/header.png' style='border-radius: 15px' class='headerimgfullsize'><img src='blog/assets/headermobile.png' style='border-radius: 15px' class='headerimgmobile'>"
 ---
 
 <div class="comingsoon">TEDxIPS is coming soon. Stay tuned for more details.</div>
@@ -32,7 +32,7 @@ Have questions or need more information? Feel free to reach out to us at [contac
 
 <div id="footer" class="footer full-width-content">
   <div class="footer-column">
-    <img src="./assets/logo.svg" alt="TEDxIPS Logo" class="footer-logo">
+    <img src="blog/assets/logo.svg" alt="TEDxIPS Logo" class="footer-logo">
   </div>
   <div class="footer-column footer-copyright">
     <p><b>© </b><span class="nectar-current-year">2024</span> TEDxIPS</p>
